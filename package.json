@@ -1,0 +1,19 @@
+{
+	"name": "most-promise-spread",
+	"version": "1.0.0",
+	"description": "Convert a promise fulfilling as an array into a Most.js stream",
+	"main": "most-promise-spread.js",
+	"directories": {
+		"example": "example"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/most-spread"
+	},
+	"keywords": ["most", "spread", "flatten"],
+	"author": "rektide de la faye",
+	"license": "ISC"
+}
